@@ -1,17 +1,25 @@
 Aspiring Data Scientist | Python Enthusiast | Excel Virtuoso 📊
 
-👋 Hello! I'm Rene Jacobs, a data enthusiast with an Associate Degree in Data Science from St. Petersburg College, achieved with a 4.0 GPA. I have a passion for turning data into actionable insights and thrive on the excitement of exploring complex datasets to uncover hidden patterns that drive decision-making.
+👋 Hello! I'm Rene Jacobs, a data enthusiast with an Associate Degree in Data Science from St. Petersburg College, earned with a 4.0 GPA. I'm currently pursuing a Bachelor of Science in Technology Development and Management (Data Analytics subplan) at SPC to deepen my understanding of IT systems, analytics, and project development.
+
+I have a passion for turning data into actionable insights and thrive on the excitement of exploring complex datasets to uncover hidden patterns that drive decision-making.
 
 📈 Skills: Python | Jupyter | Data Visualization | Statistical Modeling | Excel | Project Management
 
-🔍 Experience: 
-        Infrastructure Analysis Intern at Idaho National Laboratory: Applied theoretical knowledge to solve IT problems, engineered data retrieval mechanisms using Python, and created visualizations to inform decision-making.
-        Association Manager: Analyzed budgets, generated management reports, and supervised staff, demonstrating strong project management and critical thinking skills.
-        
-🔬 Current Focus: Currently, I'm deepening my knowledge in data analysis and statistical modeling, and I'm excited to apply these skills in real-world scenarios.
+🔍 Experience:
 
-🚀 Future Goals: My goal is to contribute to data-driven solutions that have a positive impact on organizations and society. I'm eager to collaborate with like-minded professionals and continue learning on this exciting data science journey.
+Infrastructure Analysis Intern, Idaho National Laboratory: Engineered data retrieval tools using Python, performed data cleaning and visualization, and supported IT decision-making with insightful analysis.
 
-📚 Education: Associate Degree in Data Science | St. Petersburg College | GPA: 4.0
+Association Manager: Analyzed budgets, generated reports, supervised staff, and led multiple projects with a focus on operational efficiency and strategic planning.
 
-Let's connect and explore the world of data together! Feel free to reach out for collaboration or data-related discussions.
+🔬 Current Focus: Advancing my skills in data analysis, software integration, and statistical modeling—applying them to real-world projects like the Entity Validation System (EVS).
+
+🚀 Future Goals: To contribute to innovative, data-driven solutions that positively impact organizations and society. I’m eager to collaborate with like-minded professionals and continue growing in this exciting field.
+
+📚 Education:
+
+Associate Degree in Data Science | St. Petersburg College | GPA: 4.0
+
+Pursuing B.S. in Technology Development and Management (Data Analytics Subplan) | St. Petersburg College | GPA: 4.0
+
+Let’s connect and explore the world of data together! Reach out for collaboration or data-driven conversations.
